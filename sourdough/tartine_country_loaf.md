@@ -6,18 +6,18 @@ makes one loaf
 
 I break this recipe into 3 sections. The first is making the leaven. The second is making the dough. The third is baking the bread. The boundary between each section is about 8-12 hours.
 
-## making the leaven
+## 1. making the leaven
 
 1. put 0.5 tablespoons of starter (~10g) in a large jar (something that can hold about 3 cups or about 600 ml)
 2. add 100g of water to starter and mix
 3. add 100g of flour (50% whole wheat and 50% bread flour) to starter and mix
 4. cover jar with kitchen towel and let rise in a cool place for about 8-12 hours
 
-## making the dough
+## 2. making the dough
 
 ### prep
 
-leaven is ready to use when it smells sweet in an overripe fruit sort of way. you want to catch the leaven at it's 'peak' or just a little before
+leaven is ready to use when it smells sweet in an overripe fruit sort of way. you want to catch the leaven at its 'peak' or just a little before
 
 get ingredients en place:
 
@@ -32,7 +32,6 @@ get ingredients en place:
 1. add water to a large mixing bowl. add leaven and mix
 2. add all the flour to the bowl and mix
 3. let the dough rest for about 25-40 min (this is the autolyse)
-
 4. after the autolyse, add 10g of salt and an additional 25g of water to the dough
 5. squeeze dough between your fingers and then fold it on top of itself
 6. cover bowl with towel
@@ -48,7 +47,7 @@ bulk fermentation occurs when the dough is left to rise and ferment in bulk befo
 ### shape the loaf
 
 10. pull dough out onto an unfloured surface (I put a sprinkle of water on the surface beforehand)
-11. lightly` flour the top of the dough and work the dough into a round shape building tension
+11. lightly flour the top of the dough and work the dough into a round shape building tension
 12. cover dough with a kitchen towel and let rest for 20-30m (bench rest)
 13. make the [final shape of the dough](https://www.youtube.com/watch?v=IWA0RAAsBHg) and let rest for a minute
 
@@ -62,19 +61,23 @@ the cold ferment will yield complex flavors in the bread. if you can't do it, do
 17. cover dough with towel and put in ziploc bag
 18. put dough in the fridge for ~12 hours
 
-## bake the loaf
+## 3. bake the loaf
 
 1. about 20 min before you are ready to bake, place a dutch oven (both pot and lid) in the oven and preheat the oven to 500F
 2. while the oven is preheating, gather oven mitts, rice/flour mix, lame(razor blade)
 3. take out dough from fridge, dust the surface of the loaf (which is seam side up) with rice/flour mix
-4. when oven reaches 500F, put on oven mitts, and carefully take out hot dutch oven
-5. put dough in dutch oven, seam side down (should have the rice/flour mix on seam now)
-6. score the dough (be careful not to burn yourself)
-7. optional - spritz the dough with a spray bottle
-8. put dutch oven in oven and cover with lid
-9. turn down oven temp to 450F and bake for about 30 min
-10. after 30 min, wearing oven mitts, take off lid
-11. bake for another 20-25 min
-12. carefully remove bread from oven
-13. let bread rest and cool on a rack for 2-4 hours (it is still baking)
-14. enjoy! bread is fresh for one day. slice and freeze bread for storage
+4. I put the dough on a bread sling or parchment paper (should have the rice/flour mix on bottom seam now)
+5. score the dough
+6. when oven reaches 500F, put on oven mitts, and carefully take out hot dutch oven
+7. put dough in dutch oven
+8. optional - lightly spritz the dough with water from a spray bottle
+9. put dutch oven in oven and cover with lid
+10. turn down oven temp to 450F and bake for about 30 min
+11. after 30 min, wearing oven mitts, take off lid
+12. bake for another 20-25 min
+13. carefully remove bread from oven
+14. let bread rest and cool on a rack for 2-4 hours (it is still baking)
+
+enjoy! bread is fresh for one day. slice and freeze bread for storage
+
+[This](https://www.youtube.com/watch?v=U4dyWZZVeWI) is a video of Chad Robertson baking the country loaf (as well as 2 other loaves)
