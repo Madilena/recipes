@@ -10,7 +10,7 @@ change starter jars about every 2 weeks to prevent mold. I actually have 2 jars 
 
 sourdough feedings are given as a ratio of starter:flour:water
 
-These days I've been feeding my starter at a ratio of 1:5:5, which, for me, is 10g starter, 50g flour, and 50g water
+These days I've been feeding my starter at a ratio of 1:5:5, which, for me, is 10g starter, 50g flour, and 50g water. I typically feed my starter twice a day.
 
 ## sourdough feeding example
 
