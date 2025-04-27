@@ -78,6 +78,6 @@ the cold ferment will yield complex flavors in the bread. if you can't do it, do
 13. carefully remove bread from oven
 14. let bread rest and cool on a rack for 2-4 hours (it is still baking)
 
-enjoy! bread is fresh for one day. slice and freeze bread for storage
+enjoy! bread is fresh for one day. slice and freeze bread slices for storage
 
 [This](https://www.youtube.com/watch?v=U4dyWZZVeWI) is a video of Chad Robertson baking the country loaf (as well as 2 other loaves)
